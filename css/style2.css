@@ -1,0 +1,31 @@
+.logo-awesome {
+    color: white;
+    font-size: 50px;
+
+}
+
+header.py-5 {
+    background: url(../images/surah-alalaq2.png);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+blockquote {
+    color: rgb(243, 210, 168);
+    font-size: 30px;
+    font-weight: 900px;
+}
+
+.contact-spacing {
+    margin-bottom: 10px;
+}
+
+.btn-size {
+    width: 100px;
+}
+
+footer.py-5.bg-dark {
+    background: url(../images/springboard.jpg);
+    background-size: cover;
+}
